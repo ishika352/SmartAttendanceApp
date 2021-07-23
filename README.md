@@ -13,5 +13,6 @@ Then, followed by the main functionality of the project that is the swipe cards
 It will contain the names of all the respective students as selected by you as per the year,branch and class.
 Now you can swipe the cards. If you want to mark present swipe right and if you want to mark absent swipe left or you can do so by clicking the buttons also.
 As per the demonstration given below.
+![](images/markattendance.mp4)
 
 
