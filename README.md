@@ -1,11 +1,14 @@
 # SmartAttendanceApp
 So this is how the first page of the prject looks like which has two modules faculty and admin
+
 ![](images/frontpage.jpeg)
 
 Moving forward by clicking on faculty button here we are on the sign in page.
+
 ![](images/facultysignin.jpeg)
 
 By adding the correct credentials you can move forward to the welcome page which has several options in the navigation drawer.
+
 ![](images/welcomepage.jpeg)
 
 Now by selecting the mark attendance option, It follows the next screen which has the options to select the required data that is year, branch, class and subject for which you need to mark the specific attendance
