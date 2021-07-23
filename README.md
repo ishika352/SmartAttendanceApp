@@ -21,10 +21,12 @@ Now you can also review the marked attendance of any date it will fetch the data
 After cling on the view attendance option, It follows the next screen which has the options to select the required data this is year, branch, class and subject for which you need to check the specific marked attendance.
 Then it follows a select data otion by which you will select the required date and will get the attendance of the students of the speicic year, branch and class of the required date.
 A detailed demonstration is given below.
+
 https://user-images.githubusercontent.com/70215229/126831499-b31f5d5f-7bcd-4e64-a565-1fcbd0fe14b7.mp4
 
 You can contact us on our emails or linkedin account we have attched the link.
 If you want to know how to access the link to contact us refer the video below.
+
 https://user-images.githubusercontent.com/70215229/126831771-08e7770b-6d48-48df-ba1a-9a932421b392.mp4
 
 
